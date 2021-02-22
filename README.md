@@ -14,7 +14,7 @@ I have implemented the min/max algorithms and the comparison operation in C++, s
 
 At the end of the paper, the authors show the results they get by implementing the algorithms using HEAAN[3]. I have done a similar performance evaluation which is presented in the Results excel file.
 
-The source code for the algorithms presented in the paper can be found in HEAAN/src/main.cpp and can be compiled using the makefile in the same folder.
+The source code for the algorithms presented in the paper can be found in HEAAN/src/main.cpp and can be compiled using the makefile in the same folder (see master branch)
 
 
 [1] https://eprint.iacr.org/2019/417.pdf
